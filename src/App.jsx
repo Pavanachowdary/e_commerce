@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import LoginPage from "./components/auth/LoginPage";
-import SignupPage from "./components/auth/SignupPage";
+import SignupPage from "./components/auth/SignupPage.jsx";
 import AdminLayout from "./components/admin/AdminLayout";
 import NotFoundPage from "./pages/NotFoundPage";
 
